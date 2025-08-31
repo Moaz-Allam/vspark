@@ -1,0 +1,31 @@
+{
+    "name": "vspark - Ignite Your Startup Journey",
+    "short_name": "vspark",
+    "description": "vspark is a revolutionary platform that sparks innovation by connecting visionary founders, talented co-founders, and strategic investors.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6366f1",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/logo-black.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/logo-black.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "business",
+        "productivity",
+        "finance"
+    ],
+    "lang": "en",
+    "dir": "ltr"
+}
